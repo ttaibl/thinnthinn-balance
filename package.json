@@ -1,0 +1,32 @@
+{
+  "name": "thinnthinn-balance",
+  "version": "1.0.0",
+  "description": "A Node.js module to check Ethereum wallet balance",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ttaibl/thinnthinn-balance.git"
+  },
+  "keywords": [
+    "thinnthinn-balance",
+    "ethereum",
+    "gas",
+    "balance",
+    "eth",
+    "crypto"
+  ],
+  "author": "ttaibl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ttaibl/thinnthinn-balance/issues"
+  },
+  "homepage": "https://github.com/ttaibl/thinnthinn-balance#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "web3": "^1.5.2",
+    "thinnthian-convert": "1.0.0"
+  }
+}
